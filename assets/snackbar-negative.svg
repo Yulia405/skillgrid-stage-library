@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<g id="minus circle filled" clip-path="url(#clip0_0_31)">
+<path id="icon_2" d="M10 0.833333C4.93739 0.833333 0.833333 4.93739 0.833333 10C0.833333 15.0626 4.93739 19.1667 10 19.1667C15.0626 19.1667 19.1667 15.0626 19.1667 10C19.1667 4.93739 15.0626 0.833333 10 0.833333ZM6.66667 9.16667C6.20643 9.16667 5.83333 9.53976 5.83333 10C5.83333 10.4602 6.20643 10.8333 6.66667 10.8333H13.3333C13.7936 10.8333 14.1667 10.4602 14.1667 10C14.1667 9.53976 13.7936 9.16667 13.3333 9.16667H6.66667Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_31">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<g id="star circle outlined" clip-path="url(#clip0_0_7593)">
+<path id="icon_2" d="M7.99998 3.99998L9.23598 6.41358L12 6.80299L9.99998 8.68067L10.472 11.3333L7.99998 10.0802L5.52798 11.3333L5.99998 8.68067L3.99998 6.80299L6.76398 6.41358L7.99998 3.99998ZM14.6666 7.99998C14.6666 11.6819 11.6819 14.6666 7.99998 14.6666C4.31808 14.6666 1.33331 11.6819 1.33331 7.99998C1.33331 4.31808 4.31808 1.33331 7.99998 1.33331C11.6819 1.33331 14.6666 4.31808 14.6666 7.99998Z" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_7593">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
