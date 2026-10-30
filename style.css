@@ -7,3 +7,8 @@
 #toast .snackbar-icon{width:24px;height:24px;flex:none;background:var(--positive);mask:url(assets/snackbar-positive.svg) center/20px 20px no-repeat}#toast .snackbar-icon.error{background:#fe725f;mask-image:url(assets/snackbar-negative.svg)}
 
 .field-error:empty{display:none}.settings-row .field{width:390px}.settings-row>.check{align-self:flex-start;padding-top:32px}.check{white-space:normal}.settings-row .row .check,.modal .field>.row>.check{white-space:nowrap}.element .type-icon{width:16px;height:16px;margin-top:3px}.toggle-icon{width:24px;height:24px}.back .icon{width:24px;height:24px}
+
+/* v2: explicit assignment conditions, native Skillgrid action icons */
+.stage-audience{display:flex;gap:16px;align-items:center;margin-top:16px;flex-wrap:wrap}.stage-audience .hint{display:block;margin-bottom:4px}.stage-audience .btn{min-height:32px;padding:6px 12px;font-size:12px}.element .actions{opacity:1;display:flex;gap:4px;flex-shrink:0}.drag-handle{cursor:grab;flex-shrink:0}.drag-handle:active{cursor:grabbing}.drag-handle img{pointer-events:none}.element.dragging{opacity:.45}.element.drop-before{box-shadow:inset 0 2px var(--accent)}.element.drop-after{box-shadow:inset 0 -2px var(--accent)}.update-new{margin-top:24px;border-top:1px solid var(--border);padding-top:16px}.update-plan{border-bottom:1px solid var(--border);padding:16px 0}.update-plan summary{display:flex;justify-content:space-between;gap:16px;cursor:pointer}.update-plan summary:before{content:"›"}.update-plan[open] summary:before{content:"⌄"}.update-plan p{margin:12px 0 0 24px}.bottom-bar{flex-wrap:wrap}
+
+.stage-audience .btn{font-size:14px;min-height:40px}.update-plan summary>span:first-of-type{flex:1}.update-plan summary{justify-content:flex-start}
